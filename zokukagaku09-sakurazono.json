@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sakurazono",
  "yomi": "さくらぞのちょうかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "長歌集（抄）",
+  "era": "明治32年（1899）2月序",
+  "author": "渡辺重春",
+  "desc": "豊前中津の渡辺重春の長歌集から、子の重兄が四十首ばかりを抄出したもの。大鳥神社に奉った長歌などを収める。"
+ },
  "editions": [
   {
    "pid": "993387",
